@@ -1,0 +1,114 @@
+{
+ "cj": {
+  "w": 76,
+  "h": 159,
+  "cols": 7,
+  "walk": 6,
+  "footY": 157
+ },
+ "vampire": {
+  "w": 83,
+  "h": 98,
+  "cols": 1,
+  "walk": 0,
+  "footY": 96
+ },
+ "penguin": {
+  "w": 73,
+  "h": 98,
+  "cols": 1,
+  "walk": 0,
+  "footY": 96
+ },
+ "guard": {
+  "w": 54,
+  "h": 98,
+  "cols": 1,
+  "walk": 0,
+  "footY": 96
+ },
+ "bat": {
+  "w": 151,
+  "h": 98,
+  "cols": 1,
+  "walk": 0,
+  "footY": 96
+ },
+ "goblin": {
+  "w": 66,
+  "h": 75,
+  "cols": 9,
+  "walk": 8,
+  "footY": 73
+ },
+ "bomber": {
+  "w": 40,
+  "h": 40,
+  "cols": 9,
+  "walk": 8,
+  "footY": 38
+ },
+ "piledriver": {
+  "w": 59,
+  "h": 95,
+  "cols": 7,
+  "walk": 6,
+  "footY": 93
+ },
+ "roach": {
+  "w": 124,
+  "h": 114,
+  "cols": 1,
+  "walk": 0,
+  "footY": 112
+ },
+ "ant": {
+  "w": 123,
+  "h": 115,
+  "cols": 1,
+  "walk": 0,
+  "footY": 113
+ },
+ "bedbug": {
+  "w": 108,
+  "h": 102,
+  "cols": 1,
+  "walk": 0,
+  "footY": 100
+ },
+ "termite": {
+  "w": 124,
+  "h": 109,
+  "cols": 1,
+  "walk": 0,
+  "footY": 107
+ },
+ "wasp": {
+  "w": 130,
+  "h": 129,
+  "cols": 1,
+  "walk": 0,
+  "footY": 127
+ },
+ "ratking": {
+  "w": 130,
+  "h": 110,
+  "cols": 1,
+  "walk": 0,
+  "footY": 108
+ },
+ "rat": {
+  "w": 146,
+  "h": 110,
+  "cols": 5,
+  "walk": 4,
+  "footY": 108
+ },
+ "antqueen": {
+  "w": 128,
+  "h": 115,
+  "cols": 1,
+  "walk": 0,
+  "footY": 113
+ }
+}
